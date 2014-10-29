@@ -22,7 +22,7 @@ public class Welcome1 {
 
         {
             System.out.print("Welcome to ");
-            System.out.println("Java Programming");
+            System.out.println("Java Programming... 1st modification");
             System.out.printf("%s\n%s\n", "Welcome to ", "Java Programming");
 
         //create a Scanner to obtain input from the command window
